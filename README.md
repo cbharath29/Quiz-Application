@@ -19,6 +19,7 @@ A feature-rich interactive Quiz Application built with Python. The application p
 -  Instructions section
 -  User-friendly main menu
 
+
 ###  Technologies Used
 
 - Python
