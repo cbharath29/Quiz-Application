@@ -32,3 +32,4 @@ A feature-rich interactive Quiz Application built with Python. The application p
 ###  Project Objective
 
 The main objective of this project is to build an interactive Python-based quiz system while practicing core Python concepts such as functions, lists, dictionaries, loops, conditional statements, file handling, randomization, user input, and modular programming.
+
